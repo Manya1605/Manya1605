@@ -3,8 +3,6 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.leadwithprimitive.com/hs-fs/hubfs/2021/Blogs/5%20Essential%20Skills%20to%20Look%20for%20In%20a%20Software%20Developer/coding.gif?width=500&name=coding.gif"
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=your-github-Manya1605&base=79)" alt="Manya1605" /> </p>
-
 
 - 🔭 I’m currently CSE Student at Chitkara University [manya2146.be23@chitkara.edu.in](manya2146.be23@chitkara.edu.in)
 
